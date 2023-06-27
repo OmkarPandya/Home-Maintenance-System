@@ -72,8 +72,8 @@
 
 										$host = "smtp.gmail.com";
 										$port = "587";
-										$username ="homemaintenance2024@gmail.com";
-										$password ="asopkkau";
+										$username = //Sender's email ID;
+										$password = //Sender's email Password;
 
 										$headers = array ('From' => $from,
 										  'To' => $to,
@@ -137,8 +137,8 @@
 
 											// $host = "smtp.gmail.com";
 											// $port = "587";
-											// $username ="homemaintenance2024@gmail.com";
-											// $password ="asopkkau";
+											// $username = //Sender's email ID;
+											// $password = //Sender's email password;
 
 											// $headers = array ('From' => $from,
 											//   'To' => $to,
